@@ -1,0 +1,29 @@
+
+img{
+	position: absolute;
+	height: 200px;
+	width: 200px;
+	right: 5%;
+	top: 5%;
+}
+.divlog{
+	position: absolute;
+	background-color: #fff;
+	left: 40%;
+	top:15%;
+}
+.pagina{
+	position: absolute;
+	left: 30%;
+	top:15%;	
+}
+.logout{
+	position: absolute;
+	left: 50%;
+	bottom: 30%;
+}
+.end{
+	position: absolute;
+	left: 40%;
+	bottom: 20%;
+}
